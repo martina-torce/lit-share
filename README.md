@@ -38,26 +38,4 @@ LitShare is built using various technologies, including:
 
 - **Database:** [Firestore](https://firebase.google.com/docs/firestore)
 
-## Installation
-
-To run LitShare locally, you'll need to set up the frontend and backend parts separately. Please refer to the `README` files in the respective directories for detailed instructions.
-
-## Contributing
-
-Contributions to LitShare are welcome! If you'd like to contribute to the project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-We would like to thank the open-source community for their contributions to the technologies used in this project.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
-
-Enjoy using LitShare!
-
 Inspired by [Jerga99](https://github.com/Jerga99/exchangario)
