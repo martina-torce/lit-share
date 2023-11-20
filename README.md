@@ -38,4 +38,4 @@ LitShare is built using various technologies, including:
 
 - **Database:** [Firestore](https://firebase.google.com/docs/firestore)
 
-Inspired by [Jerga99](https://github.com/Jerga99/exchangario)
+Inspired by [Jerga99](https://github.com/Jerga99/exchangario), developed in a group as part of Y3 of my course at Imperial.
